@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "studentEmails": ["xdzul@hotmail.com"],
+    "duration": 4,
+    "name": "JavaScript",
+    "description": "description",
+    "type": { "trainingType": "trainingType", "id": "id" },
+    "trainerEmail": "tery@hotmail.com"
+  },
+  {
+    "id": "2",
+    "studentEmails": ["mariel@hotmail.com", "mob@mail.com"],
+    "duration": 4,
+    "name": "React",
+    "description": "description",
+    "type": { "trainingType": "trainingType", "id": "id" },
+    "trainerEmail": "xdzul@hotmail.com"
+  }
+]
